@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "lakshan Weerasingha",
+	"author": {
+		"name": "Lakshan"
+		
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,4 +16,5 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
+
 
